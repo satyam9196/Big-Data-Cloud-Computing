@@ -68,3 +68,8 @@ Run PySpark job locally or on EC2
 
 📬 Contact
 For any questions or collaboration requests, feel free to open an issue or reach out.
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
